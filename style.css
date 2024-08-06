@@ -10,12 +10,9 @@ body{
   background-color: var(-cor-de-fundo);
   color: var(texo);
   font-family: 'Ubuntu Mono', monospace;
-
-.ubuntu-mono-regular {
-  font-family: "Ubuntu Mono", monospace;
   font-weight: 800;
   font-style: normal;
-}}
+}
 
 
 .conteudo-principal {
